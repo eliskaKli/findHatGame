@@ -6,7 +6,7 @@ Main document findHat.js is intended to use/play with Node.js.
 
 ## Setup instructions ##
 
-To play the game, run the code with command *node main.js* in your terminal. Then follow the instructions.
+To play the game, run the code with command node main.js in your terminal. Then follow the instructions.
 
 The goal of the game is to avoid the holes ('O') in the field of your choiced size, and to find your lost hat ('^') there. Your path is signed by the '*' sign. Moves can handle by the keyboard's *'u' (up)*
 *'d' (down)*
